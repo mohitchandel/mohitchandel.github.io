@@ -3947,7 +3947,7 @@ ul.exp li:not(:last-child)::before {
   height: 25%;
   background: #000000;
   content: "";
-  margin-left: -24.5px;
+  margin-left: -28.5px;
   margin-top: 30px;
   position: absolute;
   width: 2px;
